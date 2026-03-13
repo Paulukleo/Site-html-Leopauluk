@@ -3,12 +3,17 @@ body {
     background-color: #000000;
     margin: 55px
 }
-
+div.div-titulo {
+    background-color: red;
+    text-align: center;
+    margin-bottom: 20px;
+}
 h1 { 
  font-family: 'Times New Roman', Times, serif;
     font-style: italic;
     text-align: center;
     color: whitesmoke ;
+
 }
 
 h2 {
@@ -42,4 +47,5 @@ img {
 }
     ol { font-family: Arial, Helvetica, sans-serif;
         color: whitesmoke;
+       
     }
